@@ -21,7 +21,6 @@ great tutorials. This project is inspired from his blog: [Simple object tracking
 6. The bounding boxes can be produced by any type of object detector like (color thresholding + contour extraction, Haar Cascades, HOG + Linear SVM, Faster RCNNs, etc.)
 7. Video stream from webcam is used in this project to do object tracking.
 8. OpenCV's deep learning based face detector is used to detect faces.
-9. 
 
  ## **Requirements: (with versions i tested on)**
  1. python          (3.7.3)
