@@ -35,7 +35,7 @@ great tutorials. This project is inspired from his blog: [Simple object tracking
 ```
 
 ## **Results:**
-The result is great. The ball is successfully detected. Also if the ball looses the frame, we catch it later when it comes in the frame.
+The results are awesome. We are successfully able to detect and track the objects in the video stream via webcam.
 
 ![Gif of object tracking](animation.gif)
 
